@@ -1,0 +1,61 @@
+doctor_id,doctor_name,specialization,department_id,phone
+101,"Dr. Sunil Joshi",Dermatology,5,9000000001
+102,"Dr. Neha Gupta",Orthopedics,6,9000000002
+103,"Dr. Rajesh Joshi",Dermatology,2,9000000003
+104,"Dr. Kavita Iyer","General Medicine",5,9000000004
+105,"Dr. Deepak Rao","General Medicine",5,9000000005
+106,"Dr. Kavita Singh",Neurology,1,9000000006
+107,"Dr. Anil Joshi",Neurology,2,9000000007
+108,"Dr. Swati Iyer",Cardiology,4,9000000008
+109,"Dr. Vijay Mehta",Orthopedics,1,9000000009
+110,"Dr. Ritu Mehta",Orthopedics,4,9000000010
+111,"Dr. Rajesh Patil",Orthopedics,5,9000000011
+112,"Dr. Ritu Gupta",Neurology,3,9000000012
+113,"Dr. Vijay Iyer",Cardiology,6,9000000013
+114,"Dr. Swati Rao",Orthopedics,5,9000000014
+115,"Dr. Sunil Rao",Orthopedics,5,9000000015
+116,"Dr. Priya Rao",Orthopedics,3,9000000016
+117,"Dr. Anil Joshi",Neurology,3,9000000017
+118,"Dr. Sneha Rao",Dermatology,1,9000000018
+119,"Dr. Ramesh Kulkarni",Pediatrics,4,9000000019
+120,"Dr. Neha Joshi",Dermatology,6,9000000020
+121,"Dr. Rajesh Singh",Dermatology,6,9000000021
+122,"Dr. Aarti Gupta",Cardiology,6,9000000022
+123,"Dr. Deepak Verma","General Medicine",3,9000000023
+124,"Dr. Meena Rao",Pediatrics,2,9000000024
+125,"Dr. Deepak Mehta",Cardiology,5,9000000025
+126,"Dr. Anita Kulkarni",Cardiology,3,9000000026
+127,"Dr. Deepak Iyer",Orthopedics,3,9000000027
+128,"Dr. Ritu Verma",Cardiology,1,9000000028
+129,"Dr. Sunil Sharma",Neurology,4,9000000029
+130,"Dr. Aarti Rao",Neurology,4,9000000030
+131,"Dr. Suresh Mehta",Pediatrics,2,9000000031
+132,"Dr. Kavita Rao",Orthopedics,3,9000000032
+133,"Dr. Rahul Gupta",Orthopedics,4,9000000033
+134,"Dr. Priya Mehta",Cardiology,2,9000000034
+135,"Dr. Amit Joshi",Neurology,1,9000000035
+136,"Dr. Sneha Joshi",Dermatology,1,9000000036
+137,"Dr. Anil Singh",Dermatology,3,9000000037
+138,"Dr. Meena Kulkarni",Pediatrics,1,9000000038
+139,"Dr. Ramesh Mehta",Cardiology,1,9000000039
+140,"Dr. Swati Sharma",Pediatrics,6,9000000040
+141,"Dr. Deepak Kulkarni",Dermatology,2,9000000041
+142,"Dr. Anita Rao",Neurology,2,9000000042
+143,"Dr. Suresh Singh",Cardiology,6,9000000043
+144,"Dr. Swati Iyer",Neurology,1,9000000044
+145,"Dr. Sunil Patil","General Medicine",5,9000000045
+146,"Dr. Anita Iyer",Pediatrics,5,9000000046
+147,"Dr. Vijay Verma","General Medicine",3,9000000047
+148,"Dr. Aarti Iyer",Dermatology,3,9000000048
+149,"Dr. Vijay Mehta",Dermatology,2,9000000049
+150,"Dr. Anita Verma",Cardiology,4,9000000050
+151,"Dr. Anil Verma",Orthopedics,1,9000000051
+152,"Dr. Kavita Singh",Neurology,6,9000000052
+153,"Dr. Rajesh Sharma",Neurology,5,9000000053
+154,"Dr. Anita Rao",Orthopedics,2,9000000054
+155,"Dr. Rahul Sharma","General Medicine",3,9000000055
+156,"Dr. Sneha Joshi",Cardiology,2,9000000056
+157,"Dr. Deepak Joshi","General Medicine",1,9000000057
+158,"Dr. Aarti Iyer","General Medicine",4,9000000058
+159,"Dr. Rahul Sharma",Dermatology,1,9000000059
+160,"Dr. Kavita Rao","General Medicine",1,9000000060

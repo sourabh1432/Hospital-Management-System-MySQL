@@ -1,0 +1,401 @@
+room_id,room_type,daily_charge,availability
+3001,"General Ward",1588.88,Occupied
+3002,Private,4871.68,Available
+3003,"General Ward",1731.08,Occupied
+3004,Semi-Private,3077.04,Occupied
+3005,Private,3625.62,Occupied
+3006,ICU,8924.40,Available
+3007,"General Ward",1325.61,Occupied
+3008,ICU,8426.93,Occupied
+3009,Private,4694.79,Available
+3010,ICU,9559.85,Available
+3011,Private,4565.38,Available
+3012,ICU,6445.87,Occupied
+3013,"General Ward",1323.65,Available
+3014,Semi-Private,2219.27,Occupied
+3015,Semi-Private,3296.79,Available
+3016,Semi-Private,2165.65,Occupied
+3017,Semi-Private,2476.26,Occupied
+3018,ICU,6154.71,Available
+3019,ICU,9509.32,Occupied
+3020,Semi-Private,2481.75,Available
+3021,Semi-Private,2309.26,Available
+3022,Semi-Private,2040.24,Available
+3023,"General Ward",1654.09,Occupied
+3024,Private,3872.42,Available
+3025,Semi-Private,2976.78,Occupied
+3026,ICU,8786.46,Occupied
+3027,Semi-Private,2562.55,Occupied
+3028,Private,5212.11,Occupied
+3029,Semi-Private,3334.61,Occupied
+3030,ICU,6802.20,Occupied
+3031,ICU,9211.19,Occupied
+3032,Private,4396.38,Available
+3033,Private,4080.97,Available
+3034,Private,4470.89,Available
+3035,Semi-Private,2913.63,Available
+3036,Private,3907.19,Occupied
+3037,"General Ward",1386.58,Occupied
+3038,Semi-Private,2769.07,Occupied
+3039,Semi-Private,2393.39,Available
+3040,"General Ward",1368.50,Occupied
+3041,"General Ward",1641.23,Occupied
+3042,ICU,9467.57,Available
+3043,"General Ward",1699.87,Available
+3044,"General Ward",1495.48,Available
+3045,Private,3730.78,Available
+3046,Semi-Private,3099.55,Available
+3047,ICU,9556.74,Available
+3048,ICU,7188.76,Available
+3049,ICU,8575.81,Available
+3050,Semi-Private,2840.59,Occupied
+3051,Semi-Private,3277.78,Occupied
+3052,"General Ward",1141.73,Available
+3053,ICU,6105.01,Occupied
+3054,Private,3946.42,Occupied
+3055,Semi-Private,2007.12,Available
+3056,Semi-Private,2121.86,Available
+3057,ICU,8003.64,Available
+3058,ICU,9144.41,Occupied
+3059,ICU,7710.95,Occupied
+3060,Private,3604.17,Occupied
+3061,Semi-Private,2209.92,Occupied
+3062,"General Ward",1190.26,Occupied
+3063,"General Ward",1355.42,Available
+3064,ICU,6162.74,Occupied
+3065,Private,4648.41,Available
+3066,Private,4587.41,Occupied
+3067,Semi-Private,2243.84,Available
+3068,ICU,6781.39,Occupied
+3069,Private,3997.09,Occupied
+3070,Semi-Private,3446.33,Available
+3071,Semi-Private,2124.97,Occupied
+3072,"General Ward",1904.94,Available
+3073,ICU,7776.48,Available
+3074,ICU,7175.12,Available
+3075,"General Ward",1584.74,Occupied
+3076,"General Ward",1466.10,Available
+3077,"General Ward",1593.18,Occupied
+3078,"General Ward",1075.61,Available
+3079,"General Ward",1097.95,Available
+3080,Semi-Private,2270.93,Available
+3081,ICU,8200.75,Occupied
+3082,ICU,9312.04,Available
+3083,Private,5060.97,Occupied
+3084,Private,4254.18,Occupied
+3085,ICU,6561.59,Occupied
+3086,Private,4047.49,Available
+3087,Private,5375.16,Available
+3088,ICU,7401.09,Available
+3089,"General Ward",1216.96,Occupied
+3090,ICU,9878.88,Available
+3091,"General Ward",1472.10,Available
+3092,Private,3984.70,Occupied
+3093,Semi-Private,2533.62,Available
+3094,ICU,8312.34,Occupied
+3095,Private,5063.80,Available
+3096,ICU,8613.18,Occupied
+3097,ICU,7502.17,Occupied
+3098,ICU,7022.49,Occupied
+3099,"General Ward",1476.95,Available
+3100,Semi-Private,3142.28,Available
+3101,"General Ward",1176.36,Available
+3102,"General Ward",1497.08,Available
+3103,ICU,9429.46,Available
+3104,ICU,9264.83,Occupied
+3105,Private,5083.34,Available
+3106,Private,4891.66,Available
+3107,Private,3691.54,Available
+3108,Private,4614.37,Available
+3109,Semi-Private,3086.89,Occupied
+3110,ICU,9010.48,Available
+3111,ICU,9113.72,Occupied
+3112,Semi-Private,2024.86,Available
+3113,"General Ward",1309.07,Available
+3114,Private,4946.47,Occupied
+3115,"General Ward",1959.75,Occupied
+3116,Private,4952.46,Occupied
+3117,Private,3821.17,Available
+3118,"General Ward",1515.00,Occupied
+3119,Semi-Private,2509.64,Occupied
+3120,ICU,9281.94,Occupied
+3121,Private,4562.75,Available
+3122,Private,4923.50,Occupied
+3123,Semi-Private,3111.35,Available
+3124,Semi-Private,3007.00,Available
+3125,Semi-Private,2130.84,Occupied
+3126,Private,4730.59,Occupied
+3127,"General Ward",1905.61,Available
+3128,"General Ward",1668.87,Occupied
+3129,"General Ward",1557.98,Available
+3130,Private,4663.84,Available
+3131,ICU,6138.50,Occupied
+3132,ICU,7682.32,Occupied
+3133,Semi-Private,3019.11,Available
+3134,Semi-Private,2185.18,Available
+3135,ICU,6924.09,Available
+3136,Private,4056.61,Occupied
+3137,Semi-Private,2312.87,Occupied
+3138,Private,4416.55,Available
+3139,Private,5160.09,Occupied
+3140,Semi-Private,2969.59,Occupied
+3141,"General Ward",1811.01,Occupied
+3142,ICU,8366.49,Occupied
+3143,Private,5383.52,Available
+3144,Semi-Private,2853.24,Occupied
+3145,Semi-Private,2497.74,Occupied
+3146,"General Ward",1185.35,Available
+3147,"General Ward",1535.16,Available
+3148,Private,4499.85,Available
+3149,Semi-Private,3023.23,Occupied
+3150,Semi-Private,2692.32,Available
+3151,ICU,8520.05,Occupied
+3152,"General Ward",1816.31,Available
+3153,"General Ward",1839.74,Occupied
+3154,ICU,8433.16,Occupied
+3155,"General Ward",1999.86,Available
+3156,Semi-Private,2784.00,Occupied
+3157,"General Ward",1931.90,Occupied
+3158,Private,3504.26,Available
+3159,Semi-Private,2980.01,Available
+3160,ICU,7577.22,Available
+3161,ICU,8446.98,Occupied
+3162,Semi-Private,2111.60,Occupied
+3163,ICU,9631.35,Occupied
+3164,Private,4658.68,Occupied
+3165,Semi-Private,3255.44,Available
+3166,ICU,8752.69,Available
+3167,ICU,8170.46,Available
+3168,ICU,6464.59,Occupied
+3169,Private,4146.55,Available
+3170,"General Ward",1096.91,Available
+3171,"General Ward",1931.90,Available
+3172,Semi-Private,3250.78,Available
+3173,"General Ward",1456.15,Occupied
+3174,Semi-Private,2243.13,Occupied
+3175,"General Ward",1974.27,Occupied
+3176,ICU,6209.80,Occupied
+3177,ICU,6912.38,Occupied
+3178,ICU,9447.06,Occupied
+3179,"General Ward",1320.68,Available
+3180,"General Ward",1337.09,Occupied
+3181,Private,4537.00,Occupied
+3182,"General Ward",1817.76,Available
+3183,"General Ward",1870.84,Occupied
+3184,ICU,6744.96,Available
+3185,Semi-Private,3051.42,Available
+3186,Semi-Private,2962.76,Available
+3187,Semi-Private,3329.72,Occupied
+3188,Semi-Private,2099.77,Available
+3189,Semi-Private,2428.11,Occupied
+3190,Private,5148.23,Available
+3191,ICU,6357.99,Occupied
+3192,Semi-Private,2425.14,Occupied
+3193,Private,4659.16,Available
+3194,ICU,7844.84,Occupied
+3195,ICU,8187.08,Occupied
+3196,"General Ward",1237.74,Available
+3197,ICU,8384.38,Available
+3198,Private,3872.37,Available
+3199,ICU,6690.48,Occupied
+3200,Private,4708.24,Occupied
+3201,Private,5349.35,Occupied
+3202,"General Ward",1131.80,Occupied
+3203,Semi-Private,2273.30,Occupied
+3204,ICU,7102.04,Available
+3205,"General Ward",1594.91,Occupied
+3206,Private,5147.50,Occupied
+3207,ICU,7188.00,Occupied
+3208,ICU,6917.10,Available
+3209,"General Ward",1683.20,Occupied
+3210,Private,5334.68,Occupied
+3211,Semi-Private,2421.00,Occupied
+3212,Private,3653.25,Available
+3213,Private,5359.72,Available
+3214,Semi-Private,3466.56,Occupied
+3215,Private,3915.46,Occupied
+3216,ICU,6590.15,Available
+3217,"General Ward",1933.63,Available
+3218,ICU,7644.73,Occupied
+3219,Private,4319.51,Occupied
+3220,Semi-Private,2127.04,Occupied
+3221,"General Ward",1921.44,Available
+3222,ICU,8980.71,Available
+3223,ICU,9461.55,Available
+3224,Private,4971.49,Available
+3225,"General Ward",1190.64,Occupied
+3226,ICU,6002.02,Available
+3227,Private,4087.64,Available
+3228,Private,4656.02,Occupied
+3229,Private,4175.73,Occupied
+3230,ICU,6869.40,Occupied
+3231,Semi-Private,2133.27,Occupied
+3232,Private,4963.78,Available
+3233,ICU,6425.26,Occupied
+3234,ICU,7731.93,Occupied
+3235,ICU,7079.32,Occupied
+3236,Semi-Private,2344.87,Available
+3237,ICU,9759.48,Occupied
+3238,ICU,9153.30,Occupied
+3239,Semi-Private,2779.04,Available
+3240,Semi-Private,3159.45,Available
+3241,"General Ward",1012.04,Occupied
+3242,Private,4044.24,Occupied
+3243,ICU,6247.51,Occupied
+3244,Semi-Private,3089.88,Occupied
+3245,"General Ward",1248.28,Available
+3246,Private,3856.18,Available
+3247,"General Ward",1149.15,Occupied
+3248,Semi-Private,2346.57,Occupied
+3249,Private,3595.09,Available
+3250,"General Ward",1823.93,Occupied
+3251,Private,3953.62,Available
+3252,ICU,9575.97,Occupied
+3253,"General Ward",1944.58,Available
+3254,"General Ward",1901.08,Available
+3255,Private,4738.49,Occupied
+3256,Private,4811.95,Occupied
+3257,ICU,9561.16,Occupied
+3258,"General Ward",1011.75,Occupied
+3259,"General Ward",1210.64,Occupied
+3260,ICU,9585.31,Occupied
+3261,ICU,6538.07,Occupied
+3262,Semi-Private,2733.35,Available
+3263,ICU,6313.69,Available
+3264,ICU,6359.70,Available
+3265,"General Ward",1002.79,Available
+3266,Private,3987.26,Available
+3267,"General Ward",1603.90,Occupied
+3268,ICU,7126.01,Occupied
+3269,Semi-Private,3370.11,Occupied
+3270,Private,5142.32,Available
+3271,Private,4262.82,Occupied
+3272,ICU,9425.21,Occupied
+3273,ICU,9348.30,Occupied
+3274,Semi-Private,2296.52,Available
+3275,Private,3944.59,Available
+3276,ICU,7777.85,Available
+3277,Semi-Private,2666.18,Occupied
+3278,ICU,7752.49,Occupied
+3279,Semi-Private,2490.87,Occupied
+3280,ICU,7098.52,Occupied
+3281,Private,4045.45,Occupied
+3282,"General Ward",1710.08,Occupied
+3283,"General Ward",1036.98,Occupied
+3284,Private,4123.71,Occupied
+3285,Private,4684.96,Available
+3286,ICU,7801.73,Occupied
+3287,Semi-Private,2338.86,Available
+3288,ICU,6953.25,Available
+3289,Semi-Private,2742.18,Available
+3290,Semi-Private,2384.18,Available
+3291,Semi-Private,2619.77,Available
+3292,Private,4590.82,Occupied
+3293,Private,4788.23,Available
+3294,ICU,7317.89,Occupied
+3295,Semi-Private,2694.44,Occupied
+3296,ICU,9323.82,Available
+3297,Private,4743.06,Available
+3298,Semi-Private,2495.67,Available
+3299,"General Ward",1684.67,Available
+3300,ICU,6139.12,Occupied
+3301,Private,4497.55,Occupied
+3302,Semi-Private,2245.56,Occupied
+3303,ICU,8485.61,Available
+3304,Semi-Private,2499.96,Occupied
+3305,ICU,8961.02,Occupied
+3306,Semi-Private,2097.61,Occupied
+3307,ICU,8296.33,Occupied
+3308,Private,4143.80,Occupied
+3309,"General Ward",1949.32,Available
+3310,Semi-Private,2210.13,Occupied
+3311,Semi-Private,2176.65,Available
+3312,Semi-Private,3465.07,Occupied
+3313,"General Ward",1497.70,Available
+3314,ICU,8663.39,Available
+3315,Private,3843.64,Occupied
+3316,Private,4043.91,Available
+3317,Private,4741.57,Occupied
+3318,"General Ward",1347.35,Available
+3319,ICU,6050.63,Available
+3320,ICU,6457.18,Available
+3321,Semi-Private,2086.53,Available
+3322,ICU,6269.72,Occupied
+3323,"General Ward",1761.96,Occupied
+3324,ICU,9481.78,Occupied
+3325,ICU,8723.14,Occupied
+3326,"General Ward",1100.90,Available
+3327,Private,5080.07,Occupied
+3328,ICU,6410.35,Occupied
+3329,Private,5177.66,Occupied
+3330,ICU,6057.83,Occupied
+3331,"General Ward",1725.24,Occupied
+3332,Private,4798.72,Occupied
+3333,ICU,9242.72,Available
+3334,"General Ward",1558.70,Available
+3335,ICU,7276.76,Occupied
+3336,Private,3572.65,Available
+3337,ICU,9269.72,Occupied
+3338,"General Ward",1204.27,Available
+3339,ICU,8097.02,Available
+3340,Private,3744.84,Occupied
+3341,ICU,8430.57,Available
+3342,Semi-Private,2665.19,Available
+3343,ICU,9828.03,Available
+3344,Private,3883.92,Occupied
+3345,Private,3568.38,Available
+3346,Semi-Private,3382.93,Occupied
+3347,Semi-Private,2314.16,Available
+3348,ICU,8727.27,Occupied
+3349,"General Ward",1069.56,Available
+3350,ICU,6741.24,Available
+3351,Private,5289.68,Available
+3352,Semi-Private,2501.21,Occupied
+3353,ICU,7180.61,Available
+3354,Semi-Private,2900.94,Occupied
+3355,Semi-Private,3133.32,Available
+3356,Private,5399.45,Available
+3357,"General Ward",1244.90,Available
+3358,Private,3711.13,Available
+3359,Semi-Private,3202.44,Occupied
+3360,Semi-Private,2421.21,Occupied
+3361,Private,3741.45,Occupied
+3362,Semi-Private,3149.73,Available
+3363,Semi-Private,2715.08,Available
+3364,"General Ward",1159.35,Occupied
+3365,ICU,8948.72,Available
+3366,"General Ward",1572.28,Available
+3367,Semi-Private,2357.97,Available
+3368,Private,4267.67,Occupied
+3369,Semi-Private,2217.53,Available
+3370,Private,4101.71,Available
+3371,Semi-Private,2616.67,Occupied
+3372,Private,3706.99,Occupied
+3373,Semi-Private,2399.58,Occupied
+3374,ICU,6519.35,Occupied
+3375,"General Ward",1069.46,Occupied
+3376,Private,3802.51,Occupied
+3377,ICU,6994.84,Available
+3378,ICU,7456.73,Occupied
+3379,"General Ward",1681.10,Available
+3380,ICU,8652.95,Occupied
+3381,Semi-Private,2707.44,Occupied
+3382,Private,5483.41,Occupied
+3383,Semi-Private,2896.72,Available
+3384,ICU,7732.50,Available
+3385,"General Ward",1849.04,Occupied
+3386,Private,3967.32,Available
+3387,Private,5096.30,Available
+3388,ICU,6247.56,Available
+3389,Semi-Private,3488.87,Occupied
+3390,"General Ward",1302.05,Occupied
+3391,Semi-Private,3208.44,Available
+3392,Private,4677.05,Available
+3393,Private,5362.64,Occupied
+3394,Semi-Private,2597.57,Available
+3395,"General Ward",1187.30,Occupied
+3396,ICU,9892.95,Occupied
+3397,Private,5111.66,Occupied
+3398,Private,4603.19,Available
+3399,Private,3955.68,Available
+3400,Semi-Private,2546.86,Occupied
